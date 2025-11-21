@@ -40,6 +40,6 @@ Aşağıdaki platformlardan bana ulaşabilirsiniz:
 
 ### 📊 GitHub İstatistiklerim
 
-> https://github-readme-stats.vercel.app/api?username=ibrahimeyagmur
+[asd](https://github-readme-stats.vercel.app/api?username=ibrahimeyagmur)
 
 ```markdown
