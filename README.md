@@ -13,7 +13,7 @@ Kullandığım başlıca diller, çerçeveler ve araçlar:
 | Kategori | Teknolojiler |
 | :--- | :--- |
 | **Diller** | JavaScript, TypeScript |
-| **Frontend** | HTML, CSS, TailwindCSS |
+| **Frontend** | React, HTML, CSS, TailwindCSS |
 | **Backend** | NodeJS, ExpressJS, BunJS |
 | **Veritabanı** | MongoDB |
 | **Geliştirme Araçları** | Vite, NPM, Figma |
