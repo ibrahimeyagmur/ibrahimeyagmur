@@ -40,6 +40,9 @@ Aşağıdaki platformlardan bana ulaşabilirsiniz:
 
 ### 📊 GitHub İstatistiklerim
 
-[asd](https://github-readme-stats.vercel.app/api?username=ibrahimeyagmur)
+![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=ibrahimeyagmur&show_icons=true&theme=default)
 
 ```markdown
+💖 İlginç Bir Bilgi
+Geceleri kahve içerek kod yazmayı severim.
+```
