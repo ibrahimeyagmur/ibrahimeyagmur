@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Merhaba! Ben İbrahim E. Yağmur
 
-<!--
-**ibrahimeyagmur/ibrahimeyagmur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Ben Kimim?
 
-Here are some ideas to get you started:
+Ben, Full Stack Geliştiriciyim ve teknolojiye tutkuyla bağlı biriyim. Öğrenmeyi, keşfetmeyi ve topluluğa katkıda bulunmayı seviyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✨ Yeteneklerim & Araçlarım
+
+Kullandığım başlıca diller, çerçeveler ve araçlar:
+
+| Kategori | Teknolojiler |
+| :--- | :--- |
+| **Diller** | JavaScript, TypeScript |
+| **Frontend** | HTML, CSS, TailwindCSS |
+| **Backend** | NodeJS, ExpressJS, BunJS |
+| **Veritabanı** | MongoDB |
+| **Geliştirme Araçları** | Vite, NPM, Figma |
+| **Dağıtım/Hizmetler** | Vercel, Github |
+
+---
+
+### 🌱 Şu Anda Ne Yapıyorum?
+
+* 🚀 Şu an odaklandığım temel alan: **Yapay Zeka Teknolojileri**
+* 💡 Yakın zamanda denemek istediğim yeni şeyler: **Makine Öğrenimi (Assembly ve C dilleri)**
+
+---
+
+### 🤝 Benimle İletişime Geçin!
+
+Aşağıdaki platformlardan bana ulaşabilirsiniz:
+
+* 🌐 **Web Sitemiz:** https://pulkadot.com
+* 📧 **E-posta:** ibrahim.e.yagmur@icloud.com
+* 🔗 **Instagram:** https://instagram.com/ibrahim.e.yagmur
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+> https://github-readme-stats.vercel.app/api?username=ibrahimeyagmur
+
+```markdown
