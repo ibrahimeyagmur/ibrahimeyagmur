@@ -33,7 +33,7 @@ Kullandığım başlıca diller, çerçeveler ve araçlar:
 Aşağıdaki platformlardan bana ulaşabilirsiniz:
 
 * 🌐 **Web Sitemiz:** https://pulkadot.com
-* 📧 **E-posta:** ibrahim.e.yagmur@icloud.com
+* 📧 **E-posta:** ibrahim.e.yagmur@gmail.com
 * 🔗 **Instagram:** https://instagram.com/ibrahim.e.yagmur
 
 ---
