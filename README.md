@@ -35,9 +35,3 @@ Aşağıdaki platformlardan bana ulaşabilirsiniz:
 * 🌐 **Web Sitemiz:** https://pulkadot.com
 * 📧 **E-posta:** ibrahim.e.yagmur@gmail.com
 * 🔗 **Instagram:** https://instagram.com/ibrahim.e.yagmur
-
----
-
-### 📊 GitHub İstatistiklerim
-
-![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=ibrahimeyagmur&show_icons=true&theme=default)
