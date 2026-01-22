@@ -35,3 +35,5 @@ Aşağıdaki platformlardan bana ulaşabilirsiniz:
 * 🌐 **Web Sitemiz:** https://pulkadot.com
 * 📧 **E-posta:** ibrahim.e.yagmur@gmail.com
 * 🔗 **Instagram:** https://instagram.com/ibrahim.e.yagmur
+* 👀 **Discord:** https://discord.com/users/1390739558085300264
+
